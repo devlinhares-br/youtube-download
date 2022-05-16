@@ -1,6 +1,6 @@
 # YoutubeDownload
 
-![](http://img.shields.io/static/v1?label=python&message=3.10&color=blue&style=flat) ![](http://img.shields.io/static/v1?label=licença&message=MIT&color=orange$style=flat) ![](http://img.shields.io/static/v1?label=versão&message=1.0.1&color=informational&style=flat) ![](http://img.shields.io/static/v1?label=status&message=em%20atualização&color=important&style=flat) ![](https://img.shields.io/github/stars/devlinhares-br?color=green&style=flat)
+![](http://img.shields.io/static/v1?label=python&message=3.10&color=blue&style=flat) ![](http://img.shields.io/static/v1?label=licença&message=MIT&color=orange$style=flat) ![](http://img.shields.io/static/v1?label=versão&message=1.0.1&color=informational&style=flat) ![](http://img.shields.io/static/v1?label=status&message=concluido&color=important&style=flat)
 
 ### Iniciar
 - Clone o repositório 
