@@ -112,7 +112,7 @@ def init():
     root.minsize(400, 250)
     root.maxsize(400, 250)
     root.title("YoutuDownloader")
-    root.iconbitmap('ico.ico')
+    # root.iconbitmap('ico.ico')
     root.mainloop()
     
 

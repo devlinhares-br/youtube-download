@@ -9,7 +9,7 @@ class Video:
     
     def __init__(self, url = "") -> None:
         self.yt = YouTube(url)
-        self.title = subStr(self.yt.title)
+        self.title = subStr(self.yt.title) or 'Untitled'
 
     def get_streams(self):
             return self.yt.streams.filter(file_extension='mp4')
